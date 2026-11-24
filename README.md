@@ -39,7 +39,19 @@ HK32 Configurator is a graphical development tool designed to simplify periphera
 ## System Requirements
 
 - Microsoft Windows 10 / 11
+## Software Screenshots
 
+### Graphical Pin Configuration
+
+![Main Interface](Main.png)
+
+### Timer and PWM Configuration
+
+![Timer Configuration](Timer.png)
+
+### Lifetime License and Activation
+
+![License Activation](License.png)
 ## Download
 
 [Download HK32 Configurator](https://github.com/Mohsenhosseinkazemi/HK32-Configurator/releases)
